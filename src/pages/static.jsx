@@ -45,6 +45,7 @@ function StaticPage() {
         </h1>
         <p className="text-sm font-medium" style={{ color: "#6b7280" }}>
           Your ultimate study companion, made with love 🌸
+          <p className="italic">Prof. Ejie Boy Cute Gamlanga. Cute, Pogi, Loyal, Walang Pera</p>
         </p>
         <button
           onClick={() => navigate("/landing")}
